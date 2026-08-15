@@ -1,0 +1,13 @@
+DocChrono research archive
+Documents: 4
+Entities: 6
+Events: 5
+Timeline:
+  1968-04-04 | Filed: Project Lantern for Meridian Archive | 01_foundation_note.txt
+  1968-04-12 | Approved: Project Lantern | 02_board_minutes.md
+  1968-04-18 | Transferred: Asset #L-17 to Eleanor Hart | 03_dispatch.eml
+  1968-04-18T09:15:00-06:00 | Email Sent | 03_dispatch.eml
+  1968-04-21 | Filed: Asset #L-17 | 04_receipt_report.pdf
+Evidence round-trips: True
+Save/load identical: True
+Saved case: output/lantern.case.json
